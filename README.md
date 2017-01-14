@@ -12,18 +12,23 @@ TBD
 ## Arduino Connections
 Motor Shield
  - A4/A5 (I2C)
+
 PS2 Interface
  - DATA  12 
  - CMD   10
  - ATT   11
  - CLK   09
+
 Indicator
  - GPIO 13
+
 Tone
  - PWM   03
+
 Wheel Encoders
  - GPIO  02 Left
  - GPIO  04 Right
+
 Ultrasonic
  - Trans 06
  - Rec   05
